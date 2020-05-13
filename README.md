@@ -4,11 +4,11 @@ The main purpose of this project is to use Machine Learning and Deep learning te
 
 
 <h4> Material and Tools Required  </h4> 
-•	Jupyter Notebook / Google Colab: It will be the IDE required to build the system and run python script.
-•	Machine Learning algorithms (SVM, KNN, Logistic Regression) : This are the Machine learning algorithm that will be consumed in our model. We will be using this algorithm via sklearn python package.
-•	Python Natural Language Toolkit (NLTK) : This is the python package used to perform the pre-processing and feature extraction on the dataset. 
-•	Selenium / Newspaper: This is the python package that we used for extracting news article from the internet.
-•	Dataset: This is our proprietary dataset that we have built for this project.
+•	Jupyter Notebook / Google Colab: It will be the IDE required to build the system and run python script.<br>
+•	Machine Learning algorithms (SVM, KNN, Logistic Regression) : This are the Machine learning algorithm that will be consumed in our model. We will be using this algorithm via sklearn python package.<br>
+•	Python Natural Language Toolkit (NLTK) : This is the python package used to perform the pre-processing and feature extraction on the dataset. <br>
+•	Selenium / Newspaper: This is the python package that we used for extracting news article from the internet.<br>
+•	Dataset: This is our proprietary dataset that we have built for this project.<br>
 
 
 <h4> Modules in the System  </h4> 
