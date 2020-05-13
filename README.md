@@ -57,10 +57,10 @@ Result obtained from different algorithm and feature set are mentioned below:
 
 <h4>Data Dictionary</h4>  
  
-Column 1: URL 
-Column 2: Date 
-Column 3: Source 
-Column 4: Text  
-Column 5: Title 
+Column 1: URL <br>
+Column 2: Date <br>
+Column 3: Source <br>
+Column 4: Text  <br>
+Column 5: Title <br>
 Column 6: Label: Fake(0), Real(1) 
 
